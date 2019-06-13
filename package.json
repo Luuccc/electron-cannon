@@ -1,7 +1,7 @@
 {
   "name": "electron-cannon",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple dark syntax theme, annotated for simple customisation",
   "keywords": [
     "syntax",
